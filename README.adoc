@@ -15,6 +15,8 @@ image:{melpa-badge}[link="{melpa-package}"]
 image:{melpa-stable-badge}[link="{melpa-stable-package}"]
 image:{license-badge}[link="{copying}"]
 
+![image](https://github.com/emacsorphanage/adoc-mode/workflows/CI/badge.svg)
+
 = adoc-mode
 
 == Introduction
